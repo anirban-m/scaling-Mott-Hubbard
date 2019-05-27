@@ -1,7 +1,7 @@
 # scaling-Mott-Hubbard
 Via a Hamiltonian renormalization group study for the electronic unfrustrated Hubbard model on a 2d square lattice 
-we obtain the ground state energy, doping as a function of effective chemical potential. Below we list the contents
-of this github repo.
+we obtain the ground state energy, doping as a function of effective chemical potential. We numerically implement
+the RG equations and obtain plots. Some of them has been put in this github repo, below we list them:
 
 1>GS.py creates a plot of ground state energy per particle with increasing lattice sizes (N=256x256, 
     512x512,1024x1024,2048x2048,4096x4096,8192x8192,16384x16384,32768x32768) at U0=8t with t=1 for the
